@@ -2,6 +2,10 @@
 layout: home
 ---  
 
+```text
+Gabriele
+```
+
 
 Jek is a minimalist jekyll theme putting the power of color schemes in the user's hands. Toggle between schemes hassle-free, create new ones on the go, and store settings in-browser. Developed by [Tyler Butler](https://tbutler.org)
 
